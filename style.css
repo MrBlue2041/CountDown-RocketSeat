@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    font-family: poppins;
+    color: #4D4C59;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+}
+
+.lista {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+section p{
+    color: #C8C8C8;
+}
+
+#horas {
+    margin-top: 10px;
+    font-size: 70px;
+    color: #4D4C59;
+}
+
+.resto {
+    margin-top: 10px;
+}
+
+.titulo {
+    color: #6C63FF;
+}
+
+.resto p {
+    color: #9C9AB6;
+}
+
+button {
+    color: #fff;
+    margin-top: 20px;
+    border: 2px solid #6C63FF;
+    background-color: #6C63FF;
+    border-radius: 8px;
+    height: 40px;
+    width: 130px;
+}
